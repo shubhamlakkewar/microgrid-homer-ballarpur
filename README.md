@@ -28,6 +28,11 @@ Represents daily and seasonal electricity demand patterns for the community.
 
 ## 📈 Key Analysis
 
+### 🌱 Renewable Fraction vs Cost of Energy
+Shows trade-off between sustainability and cost.
+
+![Renewable vs Cost](renewable-lcoe.png)
+
 ---
 
 ### 💰 Net Present Cost vs Cost of Energy
