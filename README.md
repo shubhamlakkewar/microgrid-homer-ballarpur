@@ -1,7 +1,46 @@
 # ⚡ Microgrid Feasibility Study — Ballarpur, Maharashtra
 
 ## 📌 Overview
-Designed and simulated a solar hybrid microgrid for 100 households using HOMER Pro.
+Designed and simulated a 150 kW solar hybrid microgrid for 100 households using HOMER Pro.
+
+---
+
+## ⚙️ System Architecture
+The microgrid integrates solar PV, diesel generator, battery storage, and grid connection.
+
+![System Design](system-design.png)
+
+---
+
+## ⚡ Load Profile
+Represents daily and seasonal electricity demand patterns for the community.
+
+![Load Profile](load-profile.png)
+
+---
+
+## 📊 Key Results
+- Renewable Fraction: **76.8%**
+- LCOE: **$0.417/kWh**
+- Project Lifetime: **25 years**
+
+---
+
+## 📈 Key Analysis
+
+---
+
+### 💰 Net Present Cost vs Cost of Energy
+Highlights economic optimization across configurations.
+
+![NPC vs LCOE](npc-lcoe.png)
+
+---
+
+## 💡 Insights
+- Higher renewable penetration reduces diesel dependency  
+- Optimal configuration balances cost and sustainability  
+- Solar + battery significantly improves system efficiency  
 
 ---
 
@@ -11,43 +50,5 @@ Designed and simulated a solar hybrid microgrid for 100 households using HOMER P
 
 ---
 
-## ⚙️ System Configuration
-- Solar PV: 150 kW  
-- Diesel Generator  
-- Battery Storage  
-- Grid Connection  
-
----
-
-## 📊 Key Results
-- Renewable Energy Fraction: 76.8%  
-- LCOE: $0.417/kWh  
-- Project Lifetime: 25 years  
-
----
-
-## 📈 Analysis
-- Sensitivity Analysis:
-  - Fuel prices  
-  - Solar radiation  
-  - Load growth  
-
----
-
-## 💰 Financial Metrics
-- Net Present Cost (NPC)  
-- Internal Rate of Return (IRR)  
-- Return on Investment (ROI)  
-- Payback Period  
-
----
-
 ## 📍 Location
-Ballarpur, Chandrapur (Vidarbha region), Maharashtra  
-
----
-
-## 🚀 Future Scope
-- Add real load data  
-- Optimize battery sizing  
-- Include wind integration  
+Ballarpur, Chandrapur (Maharashtra, India)
